@@ -83,6 +83,19 @@ try {
     console.error(`Error writing file at ${outputFilePath}:`, err.message);
     process.exit(1);
   }
+  
+  // Log the result to verify the changes
+  console.log(result);
+  
+  // Step 3: Write the modified content to a new text file
+  const outputFilePath = path.join(expectedDir, 'data', 'bartleby-txt-processed.txt'); // Updated path
+  try {
+    fs.writeFileSync(outputFilePath, result, 'utf-8');
+    console.log(`File updated successfully. Processed content written to ${outputFilePath}`);
+  } catch (err) {
+    console.error(`Error writing file at ${outputFilePath}:`, err.message);
+    process.exit(1);
+  }
   // console.log(`Processed result: ${result}`);
 
 } catch (err) {
