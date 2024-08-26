@@ -11,8 +11,14 @@ if (process.cwd() !== expectedDir) {
 }
 
 // Step 1: Read the content of the text file
-const inputFilePath = path.join(expectedDir, 'bartleby-txt.txt');
-let content = fs.readFileSync(inputFilePath, 'utf-8');
+const inputFilePath = path.join(expectedDir, 'data', 'bartleby-txt.txt'); // Updated path
+let content;
+try {
+  content = fs.readFileSync(inputFilePath, 'utf-8');
+} catch (err) {
+  console.error(`Error reading file at ${inputFilePath}:`, err.message);
+  process.exit(1);
+}
 
 // Step 2: Process the content to add new lines based on the conditions specified
 let result = '';
@@ -33,7 +39,11 @@ for (let i = 0; i < content.length; i++) {
 }
 
 // Step 3: Write the modified content to a new text file
-const outputFilePath = path.join(expectedDir, 'bartleby-txt-processed.txt');
-fs.writeFileSync(outputFilePath, result, 'utf-8');
-
-console.log(`File updated successfully. Processed content written to ${outputFilePath}`);
+const outputFilePath = path.join(expectedDir, 'data', 'bartleby-txt-processed.txt'); // Updated path
+try {
+  fs.writeFileSync(outputFilePath, result, 'utf-8');
+  console.log(`File updated successfully. Processed content written to ${outputFilePath}`);
+} catch (err) {
+  console.error(`Error writing file at ${outputFilePath}:`, err.message);
+  process.exit(1);
+}
