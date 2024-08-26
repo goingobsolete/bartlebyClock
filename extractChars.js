@@ -10,4 +10,5 @@ const uniqueChars = new Set(content);
 
 // Step 3: Convert the Set to an array and log the list of unique characters
 const uniqueCharsArray = Array.from(uniqueChars);
+uniqueCharsArray.sort();
 console.log(uniqueCharsArray);
