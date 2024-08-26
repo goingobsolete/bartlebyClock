@@ -9,9 +9,11 @@ let result = '';
 for (let i = 0; i < content.length; i++) {
   if (content[i] === '"') {
     if (i > 0 && content[i - 1] === ' ') {
+      // Remove the space and add new lines after the space and after the quote
       result = result.slice(0, -1); // Remove the space
       result += '\n \n"';
     } else {
+      // Add new lines before and after the quote
       result += '\n"';
     }
     result += '\n';
