@@ -20,19 +20,12 @@ try {
   process.exit(1);
 }
 
-// Step 2: Process the content to add new lines based on the conditions specified
+// Step 2: Process the content to add spaces around quotation marks
 let result = '';
 for (let i = 0; i < content.length; i++) {
   if (content[i] === '"') {
-    if (i > 0 && (content[i - 1] === ' ' || content[i - 1] === '\n')) {
-      // Remove the space or newline and add new lines after the space/newline and after the quote
-      result = result.slice(0, -1); // Remove the space or newline
-      result += '\n \n"';
-    } else {
-      // Add new lines before and after the quote
-      result += '\n"';
-    }
-    result += '\n';
+    // Add a space before and after the quote
+    result += ' " ';
   } else {
     result += content[i];
   }
