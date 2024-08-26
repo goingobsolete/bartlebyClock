@@ -43,6 +43,11 @@ const outputFilePath = path.join(expectedDir, 'data', 'bartleby-txt-processed.tx
 try {
   fs.writeFileSync(outputFilePath, result, 'utf-8');
   console.log(`File updated successfully. Processed content written to ${outputFilePath}`);
+  console.log(`Current directory: ${process.cwd()}`);
+  console.log(`Input file path: ${inputFilePath}`);
+  console.log(`Content read from file: ${content}`);
+  // console.log(`Processed result: ${result}`);
+
 } catch (err) {
   console.error(`Error writing file at ${outputFilePath}:`, err.message);
   process.exit(1);
