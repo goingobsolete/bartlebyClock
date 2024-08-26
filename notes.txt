@@ -1,1 +1,16 @@
 get rid of punctuation by using other visual cues. italics for dialogue. put a period inside the last letter of a sentence, shave the top or bottom off for bart v employer. or 
+
+
+how to tag the text so that it can add the character saying the word or narration
+
+split strings between quotes to new lines
+
+0B: not / 0B: to
+0L:
+0T:
+GN:
+00:
+
+time zone feature
+
+would be great to have the whole text written in calligraphy
