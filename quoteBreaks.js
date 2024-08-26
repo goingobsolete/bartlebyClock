@@ -4,18 +4,17 @@ const fs = require('fs');
 const filePath = 'bartleby-txt.txt';
 let content = fs.readFileSync(filePath, 'utf-8');
 
-// Step 2: Process the content to add new lines before the first quotation and after the second quotation
+// Step 2: Process the content to add new lines based on the conditions specified
 let result = '';
-let insideQuote = false;
 for (let i = 0; i < content.length; i++) {
   if (content[i] === '"') {
-    if (!insideQuote) {
-      result += '\n"';
-      insideQuote = true;
+    if (i > 0 && content[i - 1] === ' ') {
+      result = result.slice(0, -1); // Remove the space
+      result += '\n \n"';
     } else {
-      result += '"\n';
-      insideQuote = false;
+      result += '\n"';
     }
+    result += '\n';
   } else {
     result += content[i];
   }
