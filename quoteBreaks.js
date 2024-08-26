@@ -20,15 +20,20 @@ try {
   process.exit(1);
 }
 
-// Step 2: Process the content to add spaces around quotation marks
-let result = '';
-for (let i = 0; i < content.length; i++) {
-  if (content[i] === '"') {
-    // Add a space before and after the quote
-    result += ' " ';
-  } else {
-    result += content[i];
-  }
+// Step 2: Replace all occurrences of the left double quotation mark with new lines on either side
+const result = content.replace(/“/g, '\n“\n');
+
+// Log the result to verify the changes
+console.log(result);
+
+// Step 3: Write the modified content to a new text file
+const outputFilePath = path.join(expectedDir, 'data', 'bartleby-txt-processed.txt'); // Updated path
+try {
+  fs.writeFileSync(outputFilePath, result, 'utf-8');
+  console.log(`File updated successfully. Processed content written to ${outputFilePath}`);
+} catch (err) {
+  console.error(`Error writing file at ${outputFilePath}:`, err.message);
+  process.exit(1);
 }
 
 // Step 3: Write the modified content to a new text file
