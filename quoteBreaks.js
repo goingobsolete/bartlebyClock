@@ -24,9 +24,9 @@ try {
 let result = '';
 for (let i = 0; i < content.length; i++) {
   if (content[i] === '"') {
-    if (i > 0 && content[i - 1] === ' ') {
-      // Remove the space and add new lines after the space and after the quote
-      result = result.slice(0, -1); // Remove the space
+    if (i > 0 && (content[i - 1] === ' ' || content[i - 1] === '\n')) {
+      // Remove the space or newline and add new lines after the space/newline and after the quote
+      result = result.slice(0, -1); // Remove the space or newline
       result += '\n \n"';
     } else {
       // Add new lines before and after the quote
@@ -45,7 +45,7 @@ try {
   console.log(`File updated successfully. Processed content written to ${outputFilePath}`);
   console.log(`Current directory: ${process.cwd()}`);
   console.log(`Input file path: ${inputFilePath}`);
-  console.log(`Content read from file: ${content}`);
+  // console.log(`Content read from file: ${content}`);
   // console.log(`Processed result: ${result}`);
 
 } catch (err) {
