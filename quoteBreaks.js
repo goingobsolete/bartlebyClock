@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // Step 1: Read the content of the text file
-const filePath = 'bartleby-txt.txt';
+const filePath = 'data/bartleby-txt.txt';
 let content = fs.readFileSync(filePath, 'utf-8');
 
 // Step 2: Process the content to add new lines based on the conditions specified
