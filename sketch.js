@@ -3,6 +3,7 @@ let wordsArray;
 let currentIndex = 0;
 let previousIndex = -1;
 let wordObj;
+let currentTime;
 
 function preload() {
   wordsArray = loadJSON('data/words_with_line_numbers.json');
@@ -11,7 +12,12 @@ function preload() {
 function setup() {
   createCanvas(windowWidth, windowHeight);
   textFont('IBM Plex Mono');
-
+  currentTime = new Date().getTime();
+  currentIndex = findInitialIndex(currentTime);
+  if (currentIndex == -1) {
+    wordObj = wordsArray[currentIndex];
+    previousIndex = currentIndex - 1;
+  }
 }
 
 function draw() {
@@ -27,8 +33,7 @@ function draw() {
   if (currentIndex < wordsArray.length) {
     if (currentIndex != previousIndex) {
       wordObj = wordsArray[currentIndex];
-      previousIndex = currentIndex
-      wordObj = wordsArray[currentIndex];
+      previousIndex = currentIndex;
     }
     
     if (currentTime >= wordObj.startTime && currentTime <= wordObj.endTime) {
@@ -38,20 +43,3 @@ function draw() {
     }
   }
 }
-
-  // wordObj = wordsArray[300];
-
-  // textSize(32);
-  // textAlign(CENTER, CENTER);
-  // text(wordObj.word,0,0)
-
-  // if (currentTime > wordsArray[currentIndex].endTime) {
-  //   currentIndex++;
-  // }
-
-  // if (currentIndex < wordsArray.length) {
-  //   let wordObj = wordsArray[currentIndex];
-  //   if (currentTime >= wordObj.startTime && currentTime <= wordObj.endTime) {
-  //     text(wordObj.word, 0, 0);
-  //   }
-  // }
