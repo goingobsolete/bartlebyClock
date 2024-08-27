@@ -1,6 +1,11 @@
 html, body {
   margin: 0;
   padding: 0;
+
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 200; /* ExtraLight weight */
+  font-style: italic; /* Italic style */
+  
 }
 
 canvas {
