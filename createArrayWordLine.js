@@ -12,8 +12,8 @@ const wordsWithLineNumbers = [];
 
 // Step 4: Process each line
 lines.forEach((line, lineNumber) => {
-  // Extract words (including punctuation) from the line
-  const words = line.match(/[\w'-]+|[.,!?;'"()]/g);
+  // Regex to capture words with preceding and trailing punctuation
+  const words = line.match(/[.,!?;'"()\w-]+(?:[.,!?;'"()]*)|(?:[.,!?;'"()]*)[.,!?;'"()\w-]+/g);
   if (words) {
     // Add each word and its line number to the array
     words.forEach(word => {
