@@ -1,5 +1,3 @@
-import { normalize } from "path/posix";
-
 let wordsArray;
 let nFont; // narrator font
 // let dFont; // dialogue font
@@ -8,7 +6,7 @@ function preload() {
   wordsArray = loadJSON(data/words_with_line_numbers.json, onJSONLoaded, onJSONLoadError);
 
   // Load the font from Google Fonts
-  nFont = loadFont('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+  nFont = loadFont('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@100;200;300;400;500;600;700&display=swap');
 } 
 
 function onJSONLoaded(data) {
@@ -25,7 +23,7 @@ function setup() {
 }
 
 function draw() {
-  background('#f1f1f1');
+  background(255,0,0));
   translate(width/2, height/2)
   fill(0);
   textSize(32);
