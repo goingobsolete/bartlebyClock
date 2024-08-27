@@ -1,10 +1,8 @@
 
 let wordsArray;
-let currentIndex;
+let currentIndex = 0;
+let previousIndex = -1;
 let wordObj;
-
-// let nFont; // narrator font
-// let dFont; // dialogue font
 
 function preload() {
   wordsArray = loadJSON('data/words_with_line_numbers.json');
@@ -20,23 +18,32 @@ function draw() {
   background('#F1F1F1');
   translate(width/2, height/2)
   fill(0);
+  currentTime = new Date().getTime();
 
+  if (currentIndex < wordsArray.length && currentTime > wordsArray[currentIndex].endTime) {
+    currentIndex++;
+  }
 
-  textSize(32);
-  textAlign(CENTER, CENTER);
-  text('Hello World',0,0)
+  if (currentIndex < wordsArray.length) {
+    if (currentIndex != previousIndex) {
+      wordObj = wordsArray[currentIndex];
+      previousIndex = currentIndex
+      wordObj = wordsArray[currentIndex];
+    }
+    
+    if (currentTime >= wordObj.startTime && currentTime <= wordObj.endTime) {
+    textSize(32);
+    textAlign(CENTER, CENTER);
+    text(wordObj.word,0,0)
+    }
+  }
+}
 
-    // Check if wordsArray is loaded before accessing it
-  if (wordsArray) {
-    console.log(wordsArray[467].word);
-  } else {
-    console.log("wordsArray is not loaded yet.");
+  // wordObj = wordsArray[300];
 
-  // let currentTime = new Date().getTime();
-
-  // if (currentTime < wordsArray[0].startTime) {
-  //   currentIndex = 0;
-  // }
+  // textSize(32);
+  // textAlign(CENTER, CENTER);
+  // text(wordObj.word,0,0)
 
   // if (currentTime > wordsArray[currentIndex].endTime) {
   //   currentIndex++;
@@ -48,4 +55,3 @@ function draw() {
   //     text(wordObj.word, 0, 0);
   //   }
   // }
-}
