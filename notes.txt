@@ -1,8 +1,13 @@
 My chambers were up stairs at No. —Wall-street. (is that just a blank where the address should be?)
 
+dividing sentences on new lines now EXCEPT when multiple sentences in quotation, and splitting one multiple lines if divided by he said or something
+
+what to do about his use of - to mark asides IE “True,—but,
+
 
 
 Quotes like "life" like as a saying
+parentheticals
 dialogue of each character
 !
 ,

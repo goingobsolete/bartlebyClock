@@ -23,7 +23,7 @@ The good old office, now extinct in the State of New York, of a Master in Chance
 It was not a very arduous office, but very pleasantly remunerative.
 I seldom lose my temper; much more seldom indulge in dangerous indignation at wrongs and outrages; but I must be permitted to be rash here and declare, that I consider the sudden and violent abrogation of the office of Master in Chancery, by the new Constitution, as a—premature act; inasmuch as I had counted upon a life-lease of the profits, whereas I only received those of a few short years.
 But this is by the way.
-My chambers were up stairs at No.— Wall-street.
+My chambers were up stairs at No. —Wall-street.
 At one end they looked upon the white wall of the interior of a spacious sky-light shaft, penetrating the building from top to bottom.
 This view might have been considered rather tame than otherwise, deficient in what landscape painters call “life.”
 But if so, the view from the other end of my chambers offered, at least, a contrast, if nothing more.
@@ -49,15 +49,13 @@ I did this very gently, however, because, though the civilest, nay, the blandest
 Now, valuing his morning services as I did, and resolved not to lose them; yet, at the same time made uncomfortable by his inflamed ways after twelve o’clock; and being a man of peace, unwilling by my admonitions to call forth unseemly retorts from him; I took upon me, one Saturday noon (he was always worse on Saturdays), to hint to him, very kindly, that perhaps now that he was growing old, it might be well to abridge his labors; in short, he need not come to my chambers after twelve o’clock, but, dinner over, had best go home to his lodgings and rest himself till teatime.
 But no; he insisted upon his afternoon devotions.
 His countenance became intolerably fervid, as he oratorically assured me—gesticulating with a long ruler at the other end of the room—that if his services in the morning were useful, how indispensable, then, in the afternoon?
-“With submission, sir,” said Turkey on this occasion, “I consider myself your right-hand man.
-In the morning I but marshal and deploy my columns; but in the afternoon I put myself at their head, and gallantly charge the foe, thus!”
+“With submission, sir,”
+said Turkey on this occasion, 
+“I consider myself your right-hand man. In the morning I but marshal and deploy my columns; but in the afternoon I put myself at their head, and gallantly charge the foe, thus!”
 —and he made a violent thrust with the ruler.
-“But the blots, Turkey,” intimated I.
-“True,—but, with submission, sir, behold these hairs!
-I am getting old.
-Surely, sir, a blot or two of a warm afternoon is not to be severely urged against gray hairs.
-Old age—even if it blot the page—is honorable.
-With submission, sir, we both are getting old.”
+“But the blots, Turkey,”
+intimated I.
+“True,—but, with submission, sir, behold these hairs! I am getting old. Surely, sir, a blot or two of a warm afternoon is not to be severely urged against gray hairs. Old age—even if it blot the page—is honorable. With submission, sir, we both are getting old.”
 This appeal to my fellow-feeling was hardly to be resisted.
 At all events, I saw that go he would not.
 So I made up my mind to let him stay, resolving, nevertheless, to see to it, that during the afternoon he had to do with my less important papers.
@@ -144,16 +142,19 @@ One object I had in placing Bartleby so handy to me behind the screen, was to av
 It was on the third day, I think, of his being with me, and before any necessity had arisen for having his own writing examined, that, being much hurried to complete a small affair I had in hand, I abruptly called to Bartleby.
 In my haste and natural expectancy of instant compliance, I sat with my head bent over the original on my desk, and my right hand sideways, and somewhat nervously extended with the copy, so that immediately upon emerging from his retreat, Bartleby might snatch it and proceed to business without the least delay.
 In this very attitude did I sit when I called to him, rapidly stating what it was I wanted him to do—namely, to examine a small paper with me.
-Imagine my surprise, nay, my consternation, when without moving from his privacy, Bartleby in a singularly mild, firm voice, replied, “I would prefer not to.”
+Imagine my surprise, nay, my consternation, when without moving from his privacy, Bartleby in a singularly mild, firm voice, replied, 
+“I would prefer not to.”
 I sat awhile in perfect silence, rallying my stunned faculties.
 Immediately it occurred to me that my ears had deceived me, or Bartleby had entirely misunderstood my meaning.
 I repeated my request in the clearest tone I could assume.
-But in quite as clear a one came the previous reply, “I would prefer not to.”
-“Prefer not to,” echoed I, rising in high excitement, and crossing the room with a stride.
-“What do you mean?
-Are you moon-struck?
-I want you to help me compare this sheet here—take it,” and I thrust it towards him.
-“I would prefer not to,” said he.
+But in quite as clear a one came the previous reply, 
+“I would prefer not to.”
+“Prefer not to,”
+echoed I, rising in high excitement, and crossing the room with a stride.
+“What do you mean? Are you moon-struck? I want you to help me compare this sheet here—take it,”
+and I thrust it towards him.
+“I would prefer not to,”
+said he.
 I looked at him steadfastly.
 His face was leanly composed; his gray eye dimly calm.
 Not a wrinkle of agitation rippled him.
@@ -172,12 +173,14 @@ Having all things arranged I called Turkey, Nippers and Ginger Nut from the next
 Accordingly Turkey, Nippers and Ginger Nut had taken their seats in a row, each with his document in hand, when I called to Bartleby to join this interesting group.
 “Bartleby! quick, I am waiting.”
 I heard a slow scrape of his chair legs on the uncarpeted floor, and soon he appeared standing at the entrance of his hermitage.
-“What is wanted?” said he mildly.
-“The copies, the copies,” said I hurriedly.
-“We are going to examine them.
-There”
+“What is wanted?”
+said he mildly.
+“The copies, the copies,”
+said I hurriedly.
+“We are going to examine them. There”
 —and I held towards him the fourth quadruplicate.
-“I would prefer not to,” he said, and gently disappeared behind the screen.
+“I would prefer not to,”
+he said, and gently disappeared behind the screen.
 For a few moments I was turned into a pillar of salt, standing at the head of my seated column of clerks.
 Recovering myself, I advanced towards the screen, and demanded the reason for such extraordinary conduct.
 “Why do you refuse?”
@@ -185,14 +188,9 @@ Recovering myself, I advanced towards the screen, and demanded the reason for su
 With any other man I should have flown outright into a dreadful passion, scorned all further words, and thrust him ignominiously from my presence.
 But there was something about Bartleby that not only strangely disarmed me, but in a wonderful manner touched and disconcerted me.
 I began to reason with him.
-“These are your own copies we are about to examine.
-It is labor saving to you, because one examination will answer for your four papers.
-It is common usage.
-Every copyist is bound to help examine his copy.
-Is it not so?
-Will you not speak?
-Answer!”
-“I prefer not to,” he replied in a flute-like tone.
+“These are your own copies we are about to examine. It is labor saving to you, because one examination will answer for your four papers. It is common usage. Every copyist is bound to help examine his copy. Is it not so? Will you not speak? Answer!”
+“I prefer not to,”
+he replied in a flute-like tone.
 It seemed to me that while I had been addressing him, he carefully revolved every statement that I made; fully comprehended the meaning; could not gainsay the irresistible conclusions; but, at the same time, some paramount consideration prevailed with him to reply as he did.
 “You are decided, then, not to comply with my request—a request made according to common usage and common sense?”
 He briefly gave me to understand that on that point my judgment was sound.
@@ -200,15 +198,26 @@ Yes: his decision was irreversible.
 It is not seldom the case that when a man is browbeaten in some unprecedented and violently unreasonable way, he begins to stagger in his own plainest faith.
 He begins, as it were, vaguely to surmise that, wonderful as it may be, all the justice and all the reason is on the other side.
 Accordingly, if any disinterested persons are present, he turns to them for some reinforcement for his own faltering mind.
-“Turkey,” said I, “what do you think of this? Am I not right?”
-“With submission, sir,” said Turkey, with his blandest tone, “I think that you are.”
-“Nippers,” said I,  “what do you think of it?”
+“Turkey,”
+said I, 
+“what do you think of this? Am I not right?”
+“With submission, sir,”
+said Turkey, with his blandest tone, 
+“I think that you are.”
+“Nippers,”
+said I, 
+“what do you think of it?”
 “I think I should kick him out of the office.”
 (The reader of nice perceptions will here perceive that, it being morning, Turkey’s answer is couched in polite and tranquil terms, but Nippers replies in ill-tempered ones.
 Or, to repeat a previous sentence, Nippers’ ugly mood was on duty and Turkey’s off.)
-“Ginger Nut,” said I, willing to enlist the smallest suffrage in my behalf, “what do you think of it?”
-“I think, sir, he’s a little luny,” replied Ginger Nut with a grin.
-“You hear what they say,” said I, turning towards the screen, “come forth and do your duty.”
+“Ginger Nut,”
+said I, willing to enlist the smallest suffrage in my behalf, 
+“what do you think of it?”
+“I think, sir, he’s a little luny,”
+replied Ginger Nut with a grin.
+“You hear what they say,”
+said I, turning towards the screen, 
+“come forth and do your duty.”
 But he vouchsafed no reply.
 I pondered a moment in sore perplexity.
 But once more business hurried me.
@@ -235,7 +244,8 @@ Probably he preferred it should have none.
 Nothing so aggravates an earnest person as a passive resistance.
 If the individual so resisted be of a not inhumane temper, and the resisting one perfectly harmless in his passivity; then, in the better moods of the former, he will endeavor charitably to construe to his imagination what proves impossible to be solved by his judgment.
 Even so, for the most part, I regarded Bartleby and his ways.
-Poor fellow! thought I, he means no mischief; it is plain he intends no insolence; his aspect sufficiently evinces that his eccentricities are involuntary.
+Poor fellow!
+thought I, he means no mischief; it is plain he intends no insolence; his aspect sufficiently evinces that his eccentricities are involuntary.
 He is useful to me.
 I can get along with him.
 If I turn him away, the chances are he will fall in with some less indulgent employer, and then he will be rudely treated, and perhaps driven forth miserably to starve.
@@ -247,35 +257,41 @@ The passiveness of Bartleby sometimes irritated me.
 I felt strangely goaded on to encounter him in new opposition, to elicit some angry spark from him answerable to my own.
 But indeed I might as well have essayed to strike fire with my knuckles against a bit of Windsor soap.
 But one afternoon the evil impulse in me mastered me, and the following little scene ensued:
-“Bartleby,” said I, “when those papers are all copied, I will compare them with you.”
+“Bartleby,”
+said I, 
+“when those papers are all copied, I will compare them with you.”
 “I would prefer not to.”
 “How? Surely you do not mean to persist in that mulish vagary?”
 No answer.
 I threw open the folding-doors near by, and turning upon Turkey and Nippers, exclaimed in an excited manner—
-“He says, a second time, he won’t examine his papers.
-What do you think of it, Turkey?”
+“He says, a second time, he won’t examine his papers. What do you think of it, Turkey?”
 It was afternoon, be it remembered.
 Turkey sat glowing like a brass boiler, his bald head steaming, his hands reeling among his blotted papers.
-“Think of it?” roared Turkey; “I think I’ll just step behind his screen, and black his eyes for him!”
+“Think of it?”
+roared Turkey; 
+“I think I’ll just step behind his screen, and black his eyes for him!”
 So saying, Turkey rose to his feet and threw his arms into a pugilistic position.
 He was hurrying away to make good his promise, when I detained him, alarmed at the effect of incautiously rousing Turkey’s combativeness after dinner.
-“Sit down, Turkey,” said I, “and hear what Nippers has to say.
-What do you think of it, Nippers?
-Would I not be justified in immediately dismissing Bartleby?”
-“Excuse me, that is for you to decide, sir.
-I think his conduct quite unusual, and indeed unjust, as regards Turkey and myself.
-But it may only be a passing whim.”
-“Ah,” exclaimed I, “you have strangely changed your mind then—you speak very gently of him now.”
-“All beer,” cried Turkey; “gentleness is effects of beer—Nippers and I dined together to-day.
-You see how gentle I am, sir.
-Shall I go and black his eyes?”
-“You refer to Bartleby, I suppose.
-No, not to-day, Turkey,” I replied; “pray, put up your fists.”
+“Sit down, Turkey,”
+said I, 
+“and hear what Nippers has to say. What do you think of it, Nippers? Would I not be justified in immediately dismissing Bartleby?”
+“Excuse me, that is for you to decide, sir. I think his conduct quite unusual, and indeed unjust, as regards Turkey and myself. But it may only be a passing whim.”
+“Ah,”
+exclaimed I, 
+“you have strangely changed your mind then—you speak very gently of him now.”
+“All beer,”
+cried Turkey; 
+“gentleness is effects of beer—Nippers and I dined together to-day. You see how gentle I am, sir. Shall I go and black his eyes?”
+“You refer to Bartleby, I suppose. No, not to-day, Turkey,”
+I replied; 
+“pray, put up your fists.”
 I closed the doors, and again advanced towards Bartleby.
 I felt additional incentives tempting me to my fate.
 I burned to be rebelled against again.
 I remembered that Bartleby never left the office.
-“Bartleby,” said I, “Ginger Nut is away; just step round to the Post Office, won’t you? (it was but a three minute walk,) and see if there is any thing for me.”
+“Bartleby,”
+said I, 
+“Ginger Nut is away; just step round to the Post Office, won’t you? (it was but a three minute walk,) and see if there is any thing for me.”
 “I would prefer not to.”
 “You will not?”
 “I prefer not.”
@@ -286,13 +302,17 @@ Was there any other thing in which I could procure myself to be ignominiously re
 What added thing is there, perfectly reasonable, that he will be sure to refuse to do?
 “Bartleby!”
 No answer.
-“Bartleby,” in a louder tone.
+“Bartleby,”
+in a louder tone.
 No answer.
-“Bartleby,” I roared.
+“Bartleby,”
+I roared.
 Like a very ghost, agreeably to the laws of magical invocation, at the third summons, he appeared at the entrance of his hermitage.
 “Go to the next room, and tell Nippers to come to me.”
-“I prefer not to,” he respectfully and slowly said, and mildly disappeared.
-“Very good, Bartleby,” said I, in a quiet sort of serenely severe self-possessed tone, intimating the unalterable purpose of some terrible retribution very close at hand.
+“I prefer not to,”
+ he respectfully and slowly said, and mildly disappeared.
+“Very good, Bartleby,”
+said I, in a quiet sort of serenely severe self-possessed tone, intimating the unalterable purpose of some terrible retribution very close at hand.
 At the moment I half intended something of the kind.
 But upon the whole, as it was drawing towards my dinner-hour, I thought it best to put on my hat and walk home for the day, suffering much from perplexity and distress of mind.
 Shall I acknowledge it?
@@ -305,7 +325,9 @@ I felt my most precious papers perfectly safe in his hands.
 Sometimes to be sure I could not, for the very soul of me, avoid falling into sudden spasmodic passions with him.
 For it was exceeding difficult to bear in mind all the time those strange peculiarities, privileges, and unheard of exemptions, forming the tacit stipulations on Bartleby’s part under which he remained in my office.
 Now and then, in the eagerness of dispatching pressing business, I would inadvertently summon Bartleby, in a short, rapid tone, to put his finger, say, on the incipient tie of a bit of red tape with which I was about compressing some papers.
-Of course, from behind the screen the usual answer, “I prefer not to,” was sure to come; and then, how could a human creature with the common infirmities of our nature, refrain from bitterly exclaiming upon such perverseness—such unreasonableness.
+Of course, from behind the screen the usual answer, 
+“I prefer not to,”
+was sure to come; and then, how could a human creature with the common infirmities of our nature, refrain from bitterly exclaiming upon such perverseness—such unreasonableness.
 However, every added repulse of this sort which I received only tended to lessen the probability of my repeating the inadvertence.
 Here it must be said, that according to the custom of most legal gentlemen occupying chambers in densely-populated law buildings, there were several keys to my door.
 One was kept by a woman residing in the attic, which person weekly scrubbed and daily swept and dusted my apartments.
@@ -378,9 +400,12 @@ I walked homeward, thinking what I would do with Bartleby.
 Finally, I resolved upon this; —I would put certain calm questions to him the next morning, touching his history, etc., and if he declined to answer them openly and unreservedly (and I supposed he would prefer not), then to give him a twenty dollar bill over and above whatever I might owe him, and tell him his services were no longer required; but that if in any other way I could assist him, I would be happy to do so, especially if he desired to return to his native place, wherever that might be, I would willingly help to defray the expenses.
 Moreover, if, after reaching home, he found himself at any time in want of aid, a letter from him would be sure of a reply.
 The next morning came.
-“Bartleby,” said I, gently calling to him behind his screen.
+“Bartleby,”
+said I, gently calling to him behind his screen.
 No reply.
-“Bartleby,” said I, in a still gentler tone, “come here; I am not going to ask you to do any thing you would prefer not to do—I simply wish to speak to you.”
+“Bartleby,”
+said I, in a still gentler tone, 
+“come here; I am not going to ask you to do any thing you would prefer not to do—I simply wish to speak to you.”
 Upon this he noiselessly slid into view.
 “Will you tell me, Bartleby, where you were born?”
 “I would prefer not to.”
@@ -388,37 +413,55 @@ Upon this he noiselessly slid into view.
 “I would prefer not to.”
 “But what reasonable objection can you have to speak to me? I feel friendly towards you.”
 He did not look at me while I spoke, but kept his glance fixed upon my bust of Cicero, which as I then sat, was directly behind me, some six inches above my head.
-“What is your answer, Bartleby?” said I, after waiting a considerable time for a reply, during which his countenance remained immovable, only there was the faintest conceivable tremor of the white attenuated mouth.
-“At present I prefer to give no answer,” he said, and retired into his hermitage.
+“What is your answer, Bartleby?”
+said I, after waiting a considerable time for a reply, during which his countenance remained immovable, only there was the faintest conceivable tremor of the white attenuated mouth.
+“At present I prefer to give no answer,”
+he said, and retired into his hermitage.
 It was rather weak in me I confess, but his manner on this occasion nettled me.
 Not only did there seem to lurk in it a certain calm disdain, but his perverseness seemed ungrateful, considering the undeniable good usage and indulgence he had received from me.
 Again I sat ruminating what I should do.
 Mortified as I was at his behavior, and resolved as I had been to dismiss him when I entered my offices, nevertheless I strangely felt something superstitious knocking at my heart, and forbidding me to carry out my purpose, and denouncing me for a villain if I dared to breathe one bitter word against this forlornest of mankind.
-At last, familiarly drawing my chair behind his screen, I sat down and said: “Bartleby, never mind then about revealing your history; but let me entreat you, as a friend, to comply as far as may be with the usages of this office.
+At last, familiarly drawing my chair behind his screen, I sat down and said: 
+“Bartleby, never mind then about revealing your history; but let me entreat you, as a friend, to comply as far as may be with the usages of this office.
 Say now you will help to examine papers to-morrow or next day: in short, say now that in a day or two you will begin to be a little reasonable: —say so, Bartleby.”
-“At present I would prefer not to be a little reasonable,” was his mildly cadaverous reply.
+“At present I would prefer not to be a little reasonable,”
+was his mildly cadaverous reply.
 Just then the folding-doors opened, and Nippers approached.
 He seemed suffering from an unusually bad night’s rest, induced by severer indigestion than common.
 He overheard those final words of Bartleby.
-“Prefer not, eh?” gritted Nippers— “I’d prefer him, if I were you, sir,” addressing me— “I’d prefer him; I’d give him preferences, the stubborn mule!
-What is it, sir, pray, that he prefers not to do now?”
+“Prefer not, eh?”
+gritted Nippers—
+“I’d prefer him, if I were you, sir,”
+addressing me—
+“I’d prefer him; I’d give him preferences, the stubborn mule! What is it, sir, pray, that he prefers not to do now?”
 Bartleby moved not a limb.
-“Mr. Nippers,” said I, “I’d prefer that you would withdraw for the present.”
-Somehow, of late I had got into the way of involuntarily using this word “prefer” upon all sorts of not exactly suitable occasions.
+“Mr. Nippers,”
+said I,
+“I’d prefer that you would withdraw for the present.”
+Somehow, of late I had got into the way of involuntarily using this word 
+“prefer”
+upon all sorts of not exactly suitable occasions.
 And I trembled to think that my contact with the scrivener had already and seriously affected me in a mental way.
 And what further and deeper aberration might it not yet produce?
 This apprehension had not been without efficacy in determining me to summary means.
 As Nippers, looking very sour and sulky, was departing, Turkey blandly and deferentially approached.
-“With submission, sir,” said he, “yesterday I was thinking about Bartleby here, and I think that if he would but prefer to take a quart of good ale every day, it would do much towards mending him, and enabling him to assist in examining his papers.”
-“So you have got the word too,” said I, slightly excited.
-“With submission, what word, sir,” asked Turkey, respectfully crowding himself into the contracted space behind the screen, and by so doing, making me jostle the scrivener.
+“With submission, sir,”
+said he, 
+“yesterday I was thinking about Bartleby here, and I think that if he would but prefer to take a quart of good ale every day, it would do much towards mending him, and enabling him to assist in examining his papers.”
+“So you have got the word too,”
+said I, slightly excited.
+“With submission, what word, sir,”
+asked Turkey, respectfully crowding himself into the contracted space behind the screen, and by so doing, making me jostle the scrivener.
 “What word, sir?”
-“I would prefer to be left alone here,” said Bartleby, as if offended at being mobbed in his privacy.
-“That’s the word, Turkey,” said I— “that’s it.”
-“Oh, prefer? oh yes—queer word.
-I never use it myself.
-But, sir, as I was saying, if he would but prefer—”
-“Turkey,” interrupted I, “you will please withdraw.”
+“I would prefer to be left alone here,”
+said Bartleby, as if offended at being mobbed in his privacy.
+“That’s the word, Turkey,”
+said I—
+“that’s it.”
+“Oh, prefer? oh yes—queer word. I never use it myself. But, sir, as I was saying, if he would but prefer—”
+“Turkey,”
+interrupted I, 
+“you will please withdraw.”
 “Oh certainly, sir, if you prefer that I should.”
 As he opened the folding-door to retire, Nippers at his desk caught a glimpse of me, and asked whether I would prefer to have a certain paper copied on blue paper or white.
 He did not in the least roguishly accent the word prefer.
@@ -427,10 +470,13 @@ I thought to myself, surely I must get rid of a demented man, who already has in
 But I thought it prudent not to break the dismission at once.
 The next day I noticed that Bartleby did nothing but stand at his window in his dead-wall revery.
 Upon asking him why he did not write, he said that he had decided upon doing no more writing.
-“Why, how now? what next?” exclaimed I, “do no more writing?”
+“Why, how now? what next?”
+exclaimed I, 
+“do no more writing?”
 “No more.”
 “And what is the reason?”
-“Do you not see the reason for yourself,” he indifferently replied.
+“Do you not see the reason for yourself,”
+he indifferently replied.
 I looked steadfastly at him, and perceived that his eyes looked dull and glazed.
 Instantly it occurred to me, that his unexampled diligence in copying by his dim window for the first few weeks of his stay with me might have temporarily impaired his vision.
 I was touched.
@@ -446,10 +492,13 @@ To all appearance, I thought they did.
 But when I asked him if they did, he vouchsafed no answer.
 At all events, he would do no copying.
 At last, in reply to my urgings, he informed me that he had permanently given up copying.
-“What!” exclaimed I; “suppose your eyes should get entirely well—better than ever before—would you not copy then?”
-“I have given up copying,” he answered, and slid aside.
+“What!”
+exclaimed I; 
+“suppose your eyes should get entirely well—better than ever before—would you not copy then?”
+“I have given up copying,”
+he answered, and slid aside.
 He remained as ever, a fixture in my chamber.
-Nay —if that were possible— he became still more of a fixture than before.
+Nay—if that were possible—he became still more of a fixture than before.
 What was to be done?
 He would do nothing in the office: why should he stay there?
 In plain fact, he had now become a millstone to me, not only useless as a necklace, but afflictive to bear.
@@ -462,26 +511,29 @@ At length, necessities connected with my business tyrannized over all other cons
 Decently as I could, I told Bartleby that in six days’ time he must unconditionally leave the office.
 I warned him to take measures, in the interval, for procuring some other abode.
 I offered to assist him in this endeavor, if he himself would but take the first step towards a removal.
-“And when you finally quit me, Bartleby,” added I, “I shall see that you go not away entirely unprovided.
-Six days from this hour, remember.”
+“And when you finally quit me, Bartleby,”
+added I, 
+“I shall see that you go not away entirely unprovided. Six days from this hour, remember.”
 At the expiration of that period, I peeped behind the screen, and lo!
 Bartleby was there.
-I buttoned up my coat, balanced myself; advanced slowly towards him, touched his shoulder, and said, “The time has come; you must quit this place; I am sorry for you; here is money; but you must go.”
-“I would prefer not,” he replied, with his back still towards me.
+I buttoned up my coat, balanced myself; advanced slowly towards him, touched his shoulder, and said, 
+“The time has come; you must quit this place; I am sorry for you; here is money; but you must go.”
+“I would prefer not,”
+he replied, with his back still towards me.
 “You must.”
 He remained silent.
 Now I had an unbounded confidence in this man’s common honesty.
 He had frequently restored to me sixpences and shillings carelessly dropped upon the floor, for I am apt to be very reckless in such shirt-button affairs.
 The proceeding then which followed will not be deemed extraordinary.
-“Bartleby,” said I, “I owe you twelve dollars on account; here are thirty-two; the odd twenty are yours.
-—Will you take it?” and I handed the bills towards him.
+“Bartleby,”
+said I, 
+“I owe you twelve dollars on account; here are thirty-two; the odd twenty are yours. —Will you take it?”
+and I handed the bills towards him.
 But he made no motion.
-“I will leave them here then,” putting them under a weight on the table.
+“I will leave them here then,”
+putting them under a weight on the table.
 Then taking my hat and cane and going to the door I tranquilly turned and added—
-“After you have removed your things from these offices, Bartleby, you will of course lock the door—since every one is now gone for the day but you—and if you please, slip your key underneath the mat, so that I may have it in the morning.
-I shall not see you again; so good-bye to you.
-If hereafter in your new place of abode I can be of any service to you, do not fail to advise me by letter.
-Good-bye, Bartleby, and fare you well.”
+“After you have removed your things from these offices, Bartleby, you will of course lock the door—since every one is now gone for the day but you—and if you please, slip your key underneath the mat, so that I may have it in the morning. I shall not see you again; so good-bye to you. If hereafter in your new place of abode I can be of any service to you, do not fail to advise me by letter. Good-bye, Bartleby, and fare you well.”
 But he answered not a word; like the last column of some ruined temple, he remained standing mute and solitary in the middle of the otherwise deserted room.
 As I walked home in a pensive mood, my vanity got the better of my pity.
 I could not but highly plume myself on my masterly management in getting rid of Bartleby.
@@ -503,8 +555,11 @@ After breakfast, I walked down town, arguing the probabilities pro and con.
 One moment I thought it would prove a miserable failure, and Bartleby would be found all alive at my office as usual; the next moment it seemed certain that I should see his chair empty.
 And so I kept veering about.
 At the corner of Broadway and Canal-street, I saw quite an excited group of people standing in earnest conversation.
-“I’ll take odds he doesn’t,” said a voice as I passed.
-“Doesn’t go? —done!” said I, “put up your money.”
+“I’ll take odds he doesn’t,”
+said a voice as I passed.
+“Doesn’t go? —done!”
+said I, 
+“put up your money.”
 I was instinctively putting my hand in my pocket to produce my own, when I remembered that this was an election day.
 The words I had overheard bore no reference to Bartleby, but to the success or non-success of some candidate for the mayoralty.
 In my intent frame of mind, I had, as it were, imagined that all Broadway shared in my excitement, and were debating the same question with me.
@@ -526,31 +581,28 @@ For an instant I stood like the man who, pipe in mouth, was killed one cloudless
 I murmured at last.
 But again obeying that wondrous ascendancy which the inscrutable scrivener had over me, and from which ascendancy, for all my chafing, I could not completely escape, I slowly went down stairs and out into the street, and while walking round the block, considered what I should next do in this unheard-of perplexity.
 Turn the man out by an actual thrusting I could not; to drive him away by calling him hard names would not do; calling in the police was an unpleasant idea; and yet, permit him to enjoy his cadaverous triumph over me, —this too I could not think of.
-What was to be done? or, if nothing could be done, was there any thing further that I could assume in the matter?
+What was to be done?
+or, if nothing could be done, was there any thing further that I could assume in the matter?
 Yes, as before I had prospectively assumed that Bartleby would depart, so now I might retrospectively assume that departed he was.
 In the legitimate carrying out of this assumption, I might enter my office in a great hurry, and pretending not to see Bartleby at all, walk straight against him as if he were air.
 Such a proceeding would in a singular degree have the appearance of a home-thrust.
 It was hardly possible that Bartleby could withstand such an application of the doctrine of assumptions.
 But upon second thoughts the success of the plan seemed rather dubious.
 I resolved to argue the matter over with him again.
-“Bartleby,” said I, entering the office, with a quietly severe expression, “I am seriously displeased.
-I am pained, Bartleby.
-I had thought better of you.
-I had imagined you of such a gentlemanly organization, that in any delicate dilemma a slight hint would have suffice—in short, an assumption.
-But it appears I am deceived.
-Why,” I added, unaffectedly starting, “you have not even touched that money yet,” pointing to it, just where I had left it the evening previous.
+“Bartleby,”
+said I, entering the office, with a quietly severe expression, 
+“I am seriously displeased. I am pained, Bartleby. I had thought better of you. I had imagined you of such a gentlemanly organization, that in any delicate dilemma a slight hint would have suffice—in short, an assumption. But it appears I am deceived. Why,”
+I added, unaffectedly starting, 
+“you have not even touched that money yet,”
+pointing to it, just where I had left it the evening previous.
 He answered nothing.
 “Will you, or will you not, quit me?”
 I now demanded in a sudden passion, advancing close to him.
-“I would prefer not to quit you,” he replied, gently emphasizing the not.
-“What earthly right have you to stay here
-Do you pay any rent?
-Do you pay my taxes?
-Or is this property yours?”
+“I would prefer not to quit you,”
+he replied, gently emphasizing the not.
+“What earthly right have you to stay here? Do you pay any rent? Do you pay my taxes? Or is this property yours?”
 He answered nothing.
-“Are you ready to go on and write now?
-Are your eyes recovered?
-Could you copy a small paper for me this morning? or help examine a few lines? or step round to the post-office? In a word, will you do any thing at all, to give a coloring to your refusal to depart the premises?”
+“Are you ready to go on and write now? Are your eyes recovered? Could you copy a small paper for me this morning? or help examine a few lines? or step round to the post-office? In a word, will you do any thing at all, to give a coloring to your refusal to depart the premises?”
 He silently retired into his hermitage.
 I was now in such a state of nervous resentment that I thought it but prudent to check myself at present from further demonstrations.
 Bartleby and I were alone.
@@ -559,13 +611,15 @@ Often it had occurred to me in my ponderings upon the subject, that had that alt
 It was the circumstance of being alone in a solitary office, up stairs, of a building entirely unhallowed by humanizing domestic associations—an uncarpeted office, doubtless, of a dusty, haggard sort of appearance; —this it must have been, which greatly helped to enhance the irritable desperation of the hapless Colt.
 But when this old Adam of resentment rose in me and tempted me concerning Bartleby, I grappled him and threw him.
 How?
-Why, simply by recalling the divine injunction: “A new commandment give I unto you, that ye love one another.”
+Why, simply by recalling the divine injunction: 
+“A new commandment give I unto you, that ye love one another.”
 Yes, this it was that saved me.
 Aside from higher considerations, charity often operates as a vastly wise and prudent principle—a great safeguard to its possessor.
 Men have committed murder for jealousy’s sake, and anger’s sake, and hatred’s sake, and selfishness’ sake, and spiritual pride’s sake; but no man that ever I heard of, ever committed a diabolical murder for sweet charity’s sake.
 Mere self-interest, then, if no better motive can be enlisted, should, especially with high-tempered men, prompt all beings to charity and philanthropy.
 At any rate, upon the occasion in question, I strove to drown my exasperated feelings towards the scrivener by benevolently construing his conduct.
-Poor fellow, poor fellow! thought I, he don’t mean any thing; and besides, he has seen hard times, and ought to be indulged.
+Poor fellow, poor fellow!
+thought I, he don’t mean any thing; and besides, he has seen hard times, and ought to be indulged.
 I endeavored also immediately to occupy myself, and at the same time to comfort my despondency.
 I tried to fancy that in the course of the morning, at such time as might prove agreeable to him, Bartleby, of his own free accord, would emerge from his hermitage, and take up some decided line of march in the direction of the door.
 But no.
@@ -573,7 +627,10 @@ Half-past twelve o’clock came; Turkey began to glow in the face, overturn his 
 Will it be credited?
 Ought I to acknowledge it?
 That afternoon I left the office without saying one further word to him.
-Some days now passed, during which, at leisure intervals I looked a little into “Edwards on the Will,” and “Priestly on Necessity.”
+Some days now passed, during which, at leisure intervals I looked a little into 
+“Edwards on the Will,”
+and 
+“Priestly on Necessity.”
 Under the circumstances, those books induced a salutary feeling.
 Gradually I slid into the persuasion that these troubles of mine touching the scrivener, had been all predestinated from eternity, and Bartleby was billeted upon me for some mysterious purpose of an all-wise Providence, which it was not for a mere mortal like me to fathom.
 Yes, Bartleby, stay there behind your screen, thought I; I shall persecute you no more; you are harmless and noiseless as any of these old chairs; in short, I never feel so private as when I know you are here.
@@ -611,10 +668,12 @@ What then will you do?
 For all your coaxing, he will not budge.
 Bribes he leaves under your own paperweight on your table; in short, it is quite plain that he prefers to cling to you.
 Then something severe, something unusual must be done.
-What! surely you will not have him collared by a constable, and commit his innocent pallor to the common jail?
+What!
+surely you will not have him collared by a constable, and commit his innocent pallor to the common jail?
 And upon what ground could you procure such a thing to be done?
 —a vagrant, is he?
-What! he a vagrant, a wanderer, who refuses to budge?
+What!
+he a vagrant, a wanderer, who refuses to budge?
 It is because he will not be a vagrant, then, that you seek to count him as a vagrant.
 That is too absurd.
 No visible means of support: there I have him.
@@ -622,77 +681,82 @@ Wrong again: for indubitably he does support himself, and that is the only unans
 No more then.
 Since he will not quit me, I must quit him.
 I will change my offices; I will move elsewhere; and give him fair notice, that if I find him on my new premises I will then proceed against him as a common trespasser.
-Acting accordingly, next day I thus addressed him: “I find these chambers too far from the City Hall; the air is unwholesome.
-In a word, I propose to remove my offices next week, and shall no longer require your services.
-I tell you this now, in order that you may seek another place.”
+Acting accordingly, next day I thus addressed him: 
+“I find these chambers too far from the City Hall; the air is unwholesome. In a word, I propose to remove my offices next week, and shall no longer require your services. I tell you this now, in order that you may seek another place.”
 He made no reply, and nothing more was said.
 On the appointed day I engaged carts and men, proceeded to my chambers, and having but little furniture, every thing was removed in a few hours.
 Throughout, the scrivener remained standing behind the screen, which I directed to be removed the last thing.
 It was withdrawn; and being folded up like a huge folio, left him the motionless occupant of a naked room.
 I stood in the entry watching him a moment, while something from within me upbraided me.
 I re-entered, with my hand in my pocket—and—and my heart in my mouth.
-“Good-bye, Bartleby; I am going—good-bye, and God some way bless you; and take that, ”slipping something in his hand.
+“Good-bye, Bartleby; I am going—good-bye, and God some way bless you; and take that,”
+slipping something in his hand.
 But it dropped upon the floor, and then, —strange to say—I tore myself from him whom I had so longed to be rid of.
 Established in my new quarters, for a day or two I kept the door locked, and started at every footfall in the passages.
 When I returned to my rooms after any little absence, I would pause at the threshold for an instant, and attentively listen, ere applying my key.
 But these fears were needless.
 Bartleby never came nigh me.
-I thought all was going well, when a perturbed looking stranger visited me, inquiring whether I was the person who had recently occupied rooms at No.— Wall-street.
+I thought all was going well, when a perturbed looking stranger visited me, inquiring whether I was the person who had recently occupied rooms at No. —Wall-street.
 Full of forebodings, I replied that I was.
-“Then sir,” said the stranger, who proved a lawyer, “you are responsible for the man you left there.
+“Then sir,”
+said the stranger, who proved a lawyer, 
+“you are responsible for the man you left there.
 He refuses to do any copying; he refuses to do any thing; he says he prefers not to; and he refuses to quit the premises.”
-“I am very sorry, sir,” said I, with assumed tranquility, but an inward tremor, “but, really, the man you allude to is nothing to me—he is no relation or apprentice of mine, that you should hold me responsible for him.”
+“I am very sorry, sir,”
+said I, with assumed tranquility, but an inward tremor, 
+“but, really, the man you allude to is nothing to me—he is no relation or apprentice of mine, that you should hold me responsible for him.”
 “In mercy’s name, who is he?”
-“I certainly cannot inform you.
-I know nothing about him.
-Formerly I employed him as a copyist; but he has done nothing for me now for some time past.”
+“I certainly cannot inform you. I know nothing about him. Formerly I employed him as a copyist; but he has done nothing for me now for some time past.”
 “I shall settle him then, —good morning, sir.”
 Several days passed, and I heard nothing more; and though I often felt a charitable prompting to call at the place and see poor Bartleby, yet a certain squeamishness of I know not what withheld me.
 All is over with him, by this time, thought I at last, when through another week no further intelligence reached me.
 But coming to my room the day after, I found several persons waiting at my door in a high state of nervous excitement.
-“That’s the man—here he comes,” cried the foremost one, whom I recognized as the lawyer who had previously called upon me alone.
-“You must take him away, sir, at once,” cried a portly person among them, advancing upon me, and whom I knew to be the landlord of No.— Wall-street.
-“These gentlemen, my tenants, cannot stand it any longer; Mr. B—” pointing to the lawyer, “has turned him out of his room, and he now persists in haunting the building generally, sitting upon the banisters of the stairs by day, and sleeping in the entry by night.
-Every body is concerned; clients are leaving the offices; some fears are entertained of a mob; something you must do, and that without delay.”
+“That’s the man—here he comes,”
+cried the foremost one, whom I recognized as the lawyer who had previously called upon me alone.
+“You must take him away, sir, at once,”
+cried a portly person among them, advancing upon me, and whom I knew to be the landlord of No. —Wall-street. 
+“These gentlemen, my tenants, cannot stand it any longer; Mr. B—”
+pointing to the lawyer, 
+“has turned him out of his room, and he now persists in haunting the building generally, sitting upon the banisters of the stairs by day, and sleeping in the entry by night. Every body is concerned; clients are leaving the offices; some fears are entertained of a mob; something you must do, and that without delay.”
 Aghast at this torrent, I fell back before it, and would fain have locked myself in my new quarters.
 In vain I persisted that Bartleby was nothing to me—no more than to any one else.
 In vain: —I was the last person known to have any thing to do with him, and they held me to the terrible account.
 Fearful then of being exposed in the papers (as one person present obscurely threatened) I considered the matter, and at length said, that if the lawyer would give me a confidential interview with the scrivener, in his (the lawyer’s) own room, I would that afternoon strive my best to rid them of the nuisance they complained of.
 Going up stairs to my old haunt, there was Bartleby silently sitting upon the banister at the landing.
-“What are you doing here, Bartleby?” said I.
-“Sitting upon the banister,” he mildly replied.
+“What are you doing here, Bartleby?”
+said I.
+“Sitting upon the banister,”
+he mildly replied.
 I motioned him into the lawyer’s room, who then left us.
-“Bartleby,” said I, “are you aware that you are the cause of great tribulation to me, by persisting in occupying the entry after being dismissed from the office?”
+“Bartleby,”
+said I, 
+“are you aware that you are the cause of great tribulation to me, by persisting in occupying the entry after being dismissed from the office?”
 No answer.
-“Now one of two things must take place.
-Either you must do something, or something must be done to you.
-Now what sort of business would you like to engage in?
-Would you like to re-engage in copying for some one?”
+“Now one of two things must take place. Either you must do something, or something must be done to you. Now what sort of business would you like to engage in? Would you like to re-engage in copying for some one?”
 “No; I would prefer not to make any change.”
 “Would you like a clerkship in a dry-goods store?”
-“There is too much confinement about that.
-No, I would not like a clerkship; but I am not particular.”
-“Too much confinement,” I cried, “why you keep yourself confined all the time!”
-“I would prefer not to take a clerkship,” he rejoined, as if to settle that little item at once.
-“How would a bar-tender’s business suit you?
-There is no trying of the eyesight in that.”
+“There is too much confinement about that. No, I would not like a clerkship; but I am not particular.”
+“Too much confinement,”
+I cried, 
+“why you keep yourself confined all the time!”
+“I would prefer not to take a clerkship,”
+he rejoined, as if to settle that little item at once.
+“How would a bar-tender’s business suit you? There is no trying of the eyesight in that.”
 “I would not like it at all; though, as I said before, I am not particular.”
 His unwonted wordiness inspirited me.
 I returned to the charge.
-“Well then, would you like to travel through the country collecting bills for the merchants?
-That would improve your health.”
+“Well then, would you like to travel through the country collecting bills for the merchants? That would improve your health.”
 “No, I would prefer to be doing something else.”
 “How then would going as a companion to Europe, to entertain some young gentleman with your conversation, —how would that suit you?”
-“Not at all.
-It does not strike me that there is any thing definite about that.
-I like to be stationary.
-But I am not particular.”
-“Stationary you shall be then,” I cried, now losing all patience, and for the first time in all my exasperating connection with him fairly flying into a passion.
+“Not at all. It does not strike me that there is any thing definite about that. I like to be stationary. But I am not particular.”
+“Stationary you shall be then,”
+I cried, now losing all patience, and for the first time in all my exasperating connection with him fairly flying into a passion.
 “If you do not go away from these premises before night, I shall feel bound—indeed I am bound—to—to—to quit the premises myself!”
 I rather absurdly concluded, knowing not with what possible threat to try to frighten his immobility into compliance.
 Despairing of all further efforts, I was precipitately leaving him, when a final thought occurred to me—one which had not been wholly unindulged before.
-“Bartleby,” said I, in the kindest tone I could assume under such exciting circumstances, “will you go home with me now—not to my office, but my dwelling—and remain there till we can conclude upon some convenient arrangement for you at our leisure?
-Come, let us start now, right away.”
+“Bartleby,”
+said I, in the kindest tone I could assume under such exciting circumstances, 
+“will you go home with me now—not to my office, but my dwelling—and remain there till we can conclude upon some convenient arrangement for you at our leisure? Come, let us start now, right away.”
 “No: at present I would prefer not to make any change at all.”
 I answered nothing; but effectually dodging every one by the suddenness and rapidity of my flight, rushed from the building, ran up Wall-street towards Broadway, and jumping into the first omnibus was soon removed from pursuit.
 As soon as tranquility returned I distinctly perceived that I had now done all that I possibly could, both in respect to the demands of the landlord and his tenants, and with regard to my own desire and sense of duty, to benefit Bartleby, and shield him from rude persecution.
@@ -717,55 +781,56 @@ I then begged to have an interview.
 Being under no disgraceful charge, and quite serene and harmless in all his ways, they had permitted him freely to wander about the prison, and especially in the inclosed grass-platted yard thereof.
 And so I found him there, standing all alone in the quietest of the yards, his face towards a high wall, while all around, from the narrow slits of the jail windows, I thought I saw peering out upon him the eyes of murderers and thieves.
 “Bartleby!”
-“I know you,” he said, without looking round,— “and I want nothing to say to you.”
-“It was not I that brought you here, Bartleby,” said I, keenly pained at his implied suspicion.
-“And to you, this should not be so vile a place.
-Nothing reproachful attaches to you by being here.
-And see, it is not so sad a place as one might think.
-Look, there is the sky, and here is the grass.”
-“I know where I am,” he replied, but would say nothing more, and so I left him.
+“I know you,”
+he said, without looking round,—
+“and I want nothing to say to you.”
+“It was not I that brought you here, Bartleby,”
+said I, keenly pained at his implied suspicion.
+“And to you, this should not be so vile a place. Nothing reproachful attaches to you by being here. And see, it is not so sad a place as one might think. Look, there is the sky, and here is the grass.”
+“I know where I am,”
+he replied, but would say nothing more, and so I left him.
 As I entered the corridor again, a broad meat-like man, in an apron, accosted me, and jerking his thumb over his shoulder said—
 “Is that your friend?”
 “Yes.”
-“Does he want to starve?
-If he does, let him live on the prison fare, that’s all.”
-“Who are you?” asked I, not knowing what to make of such an unofficially speaking person in such a place.
-“I am the grub-man.
-Such gentlemen as have friends here, hire me to provide them with something good to eat.”
-“Is this so?” said I, turning to the turnkey.
+“Does he want to starve? If he does, let him live on the prison fare, that’s all.”
+“Who are you?”
+asked I, not knowing what to make of such an unofficially speaking person in such a place.
+“I am the grub-man. Such gentlemen as have friends here, hire me to provide them with something good to eat.”
+“Is this so?”
+said I, turning to the turnkey.
 He said it was.
-“Well then,” said I, slipping some silver into the grub-man’s hands (for so they called him).
-“I want you to give particular attention to my friend there; let him have the best dinner you can get.
-And you must be as polite to him as possible.”
-“Introduce me, will you?” said the grub-man, looking at me with an expression which seemed to say he was all impatience for an opportunity to give a specimen of his breeding.
+“Well then,”
+said I, slipping some silver into the grub-man’s hands (for so they called him).
+“I want you to give particular attention to my friend there; let him have the best dinner you can get. And you must be as polite to him as possible.”
+“Introduce me, will you?”
+said the grub-man, looking at me with an expression which seemed to say he was all impatience for an opportunity to give a specimen of his breeding.
 Thinking it would prove of benefit to the scrivener, I acquiesced; and asking the grub-man his name, went up with him to Bartleby.
 “Bartleby, this is Mr. Cutlets; you will find him very useful to you.”
-“Your sarvant, sir, your sarvant,” said the grub-man, making a low salutation behind his apron.
-“Hope you find it pleasant here, sir;—spacious grounds—cool apartments, sir—hope you’ll stay with us some time—try to make it agreeable.
-May Mrs. Cutlets and I have the pleasure of your company to dinner, sir, in Mrs. Cutlets’ private room?”
-“I prefer not to dine to-day,” said Bartleby, turning away.
+“Your sarvant, sir, your sarvant,”
+said the grub-man, making a low salutation behind his apron.
+“Hope you find it pleasant here, sir;—spacious grounds—cool apartments, sir—hope you’ll stay with us some time—try to make it agreeable. May Mrs. Cutlets and I have the pleasure of your company to dinner, sir, in Mrs. Cutlets’ private room?”
+“I prefer not to dine to-day,”
+said Bartleby, turning away.
 “It would disagree with me; I am unused to dinners.”
 So saying he slowly moved to the other side of the inclosure, and took up a position fronting the dead-wall.
-“How’s this?” said the grub-man, addressing me with a stare of astonishment.
+“How’s this?”
+said the grub-man, addressing me with a stare of astonishment.
 “He’s odd, aint he?”
-“I think he is a little deranged,” said I, sadly.
-“Deranged? deranged is it?
-Well now, upon my word, I thought that friend of yourn was a gentleman forger; they are always pale and genteel-like, them forgers.
-I can’t pity’em—can’t help it, sir.
-Did you know Monroe Edwards?” he added touchingly, and paused.
-Then, laying his hand pityingly on my shoulder, sighed, “he died of consumption at Sing-Sing.
-So you weren’t acquainted with Monroe?”
-“No, I was never socially acquainted with any forgers.
-But I cannot stop longer.
-Look to my friend yonder.
-You will not lose by it.
-I will see you again.”
+“I think he is a little deranged,”
+said I, sadly.
+“Deranged? deranged is it? Well now, upon my word, I thought that friend of yourn was a gentleman forger; they are always pale and genteel-like, them forgers. I can’t pity’em—can’t help it, sir. Did you know Monroe Edwards?”
+he added touchingly, and paused.
+Then, laying his hand pityingly on my shoulder, sighed, 
+“he died of consumption at Sing-Sing. So you weren’t acquainted with Monroe?”
+“No, I was never socially acquainted with any forgers. But I cannot stop longer. Look to my friend yonder. You will not lose by it. I will see you again.”
 Some few days after this, I again obtained admission to the Tombs, and went through the corridors in quest of Bartleby; but without finding him.
-“I saw him coming from his cell not long ago,” said a turnkey, “may be he’s gone to loiter in the yards.”
+“I saw him coming from his cell not long ago,”
+said a turnkey, 
+“may be he’s gone to loiter in the yards.”
 So I went in that direction.
-“Are you looking for the silent man?” said another turnkey passing me.
-“Yonder he lies—sleeping in the yard there.
-’Tis not twenty minutes since I saw him lie down.”
+“Are you looking for the silent man?”
+said another turnkey passing me.
+“Yonder he lies—sleeping in the yard there. ’Tis not twenty minutes since I saw him lie down.”
 The yard was entirely quiet.
 It was not accessible to the common prisoners.
 The surrounding walls, of amazing thickness, kept off all sounds behind them.
@@ -778,12 +843,12 @@ I paused; then went close up to him; stooped over, and saw that his dim eyes wer
 Something prompted me to touch him.
 I felt his hand, when a tingling shiver ran up my arm and down my spine to my feet.
 The round face of the grub-man peered upon me now.
-“His dinner is ready.
-Won’t he dine to-day, either?
-Or does he live without dining?”
-“Lives without dining,” said I, and closed his eyes.
+“His dinner is ready. Won’t he dine to-day, either? Or does he live without dining?”
+“Lives without dining,”
+said I, and closed his eyes.
 “Eh!—He’s asleep, aint he?”
-“With kings and counselors,” murmured I.
+“With kings and counselors,”
+murmured I.
 There would seem little need for proceeding further in this history.
 Imagination will readily supply the meager recital of poor Bartleby’s interment.
 But ere parting with the reader, let me say, that if this little narrative has sufficiently interested him, to awaken curiosity as to who Bartleby was, and what manner of life he led prior to the present narrator’s making his acquaintance, I can only reply, that in such curiosity I fully share, but am wholly unable to gratify it.
@@ -792,7 +857,8 @@ Upon what basis it rested, I could never ascertain; and hence, how true it is I 
 But inasmuch as this vague report has not been without certain strange suggestive interest to me, however sad, it may prove the same with some others; and so I will briefly mention it.
 The report was this: that Bartleby had been a subordinate clerk in the Dead Letter Office at Washington, from which he had been suddenly removed by a change in the administration.
 When I think over this rumor, I cannot adequately express the emotions which seize me.
-Dead letters! does it not sound like dead men?
+Dead letters!
+does it not sound like dead men?
 Conceive a man by nature and misfortune prone to a pallid hopelessness, can any business seem more fitted to heighten it than that of continually handling these dead letters, and assorting them for the flames?
 For by the cart-load they are annually burned.
 Sometimes from out the folded paper the pale clerk takes a ring:—the finger it was meant for, perhaps, moulders in the grave; a bank-note sent in swiftest charity:—he whom it would relieve, nor eats nor hungers any more; pardon for those who died despairing; hope for those who died unhoping; good tidings for those who died stifled by unrelieved calamities.
