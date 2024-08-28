@@ -1,11 +1,11 @@
 
 let wordsArray;
-let currentIndex = 0;
+let currentIndex;
 let wordObj;
-let currentTime;
+// let currentTime;
 
 function preload() {
-  wordsArray = loadJSON('data/words_with_line_numbers.json', onJSONLoaded, onJSONError);
+  wordsArray = loadJSON('data/words_with_line_numbers.json');
 } 
 
 function setup() {
@@ -14,10 +14,15 @@ function setup() {
   textSize(32);
   textAlign(CENTER, CENTER);
 
-  currentTime = new Date().getTime();
+  const now = new Date();
+  const startOfDay = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  const milliSinceStartOfDay = now - startOfDay;
 
-  currentIndex = findInitialIndex(currentTime);
+  console.log('millis:',milliSinceStartOfDay);
 
+  currentIndex = findInitialIndex(milliSinceStartOfDay);
+
+  console.log('Current Index:',currentIndex);
 }
 
 function draw() {
@@ -25,7 +30,7 @@ function draw() {
   translate(width/2, height/2)
   fill(0);
 
-  currentTime = new Date().getTime();
+  currentTime = 968782;
 
   if (currentIndex < wordsArray.length) {
     if(currentTime > wordsArray[currentIndex].endTime) {

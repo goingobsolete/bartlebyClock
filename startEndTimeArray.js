@@ -32,7 +32,7 @@ const timeInterval = millisecondsInADay / numberOfWords;
 let currentTime = 0;
 wordsArray = wordsArray.map(wordObj => {
   const startTime = currentTime;
-  const endTime = currentTime + timeInterval - 1;
+  const endTime = Math.floor(currentTime + timeInterval);
   currentTime = endTime + 1;
   return {
     ...wordObj,

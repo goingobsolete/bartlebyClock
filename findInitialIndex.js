@@ -1,6 +1,6 @@
-function findInitialIndex(currentTime) {
+function findInitialIndex(milliSinceStartOfDay) {
     for (let i = 0; i < wordsArray.length; i++) {
-      if (currentTime >= wordsArray[i].startTime && currentTime <= wordsArray[i].endTime) {
+      if (milliSinceStartOfDay >= wordsArray[i].startTime && milliSinceStartOfDay <= wordsArray[i].endTime) {
         return i;
       }
     }
