@@ -5,13 +5,22 @@ let wordObj;
 // let currentTime;
 
 function preload() {
-  wordsArray = loadJSON('data/words_with_line_numbers.json');
+  wordsArray = loadJSON('data/words_with_line_numbers.json', onJSONLoaded, onJSONError);
 } 
+
+function onJSONLoaded(data) {
+  console.log('JSON Loaded');
+  wordsArray = data;
+}
+
+function onJSONError() {
+  console.error('Failed to load JSON file.');
+}
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
   textFont('IBM Plex Mono');
-  textSize(32);
+  textSize(72);
   textAlign(CENTER, CENTER);
 
   const now = new Date();
@@ -30,7 +39,12 @@ function draw() {
   translate(width/2, height/2)
   fill(0);
 
-  currentTime = 968782;
+  const now = new Date();
+  const startOfDay = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  const milliSinceStartOfDay = now - startOfDay;
+  currentTime = milliSinceStartOfDay;
+
+  console.log('Current Time',currentTime);
 
   if (currentIndex < wordsArray.length) {
     if(currentTime > wordsArray[currentIndex].endTime) {
