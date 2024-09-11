@@ -19,7 +19,8 @@ function onJSONError() {
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  textFont('IBM Plex Mono');
+  textFont('Libre Caslon Text');
+  textStyle(ITALIC);
   textSize(72);
   textAlign(CENTER, CENTER);
 

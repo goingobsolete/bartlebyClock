@@ -34,3 +34,5 @@ would be great to have the whole text written in calligraphy
 
 
 Time Handling: Your sketch uses new Date().getTime() to get the current time in milliseconds, but the startTime and endTime from your JSON appear to be cumulative or relative times in milliseconds. The sketch seems to expect these to match the elapsed time since the start of the sketch, not the actual system time.
+
+606.06 is parts per hour
