@@ -2,26 +2,52 @@
 let wordsArray;
 let currentIndex;
 let wordObj;
-let group1,group2, group3, group4, groupWall;
+let group1, group2, group3, group4, group5;
 
 
 // let currentTime;
 
 function preload() {
-  wordsArray = loadJSON('data/words_with_line_numbers.json', onJSONLoaded, onJSONError);
-  group1 = loadJSON('data/group1.json', onJSONLoaded, onJSONError);
-  group2 = loadJSON('data/group2.json', onJSONLoaded, onJSONError);
-  group3 = loadJSON('data/group3.json', onJSONLoaded, onJSONError);
-  group4 = loadJSON('data/group4.json', onJSONLoaded, onJSONError);
+  loadJSON('data/words_with_line_numbers.json', onWordsLoaded, onJSONError);
+  loadJSON('data/group1.json', onGroup1Loaded, onJSONError);
+  loadJSON('data/group2.json', onGroup2Loaded, onJSONError);
+  loadJSON('data/group3.json', onGroup3Loaded, onJSONError);
+  loadJSON('data/group4.json', onGroup4Loaded, onJSONError);
+  loadJSON('data/group5.json', onGroup5Loaded, onJSONError);
 } 
 
-function onJSONLoaded(data) {
-  console.log('JSON Loaded');
+function onWordsLoaded(data) {
+  console.log('Words JSON Loaded');
   wordsArray = data;
 }
 
-function onJSONError() {
-  console.error('Failed to load JSON file.');
+function onGroup1Loaded(data) {
+  console.log('Group 1 JSON Loaded');
+  group1 = data;
+}
+
+function onGroup2Loaded(data) {
+  console.log('Group 2 JSON Loaded');
+  group2 = data;
+}
+
+function onGroup3Loaded(data) {
+  console.log('Group 3 JSON Loaded');
+  group3 = data;
+}
+
+function onGroup4Loaded(data) {
+  console.log('Group 4 JSON Loaded');
+  group4 = data;
+}
+
+function onGroup5Loaded(data) {
+  console.log('Group 5 JSON Loaded');
+  group5 = data;
+}
+
+function onJSONError(error) {
+  console.error('Error loading JSON:', error);
 }
 
 function setup() {
