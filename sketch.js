@@ -2,10 +2,17 @@
 let wordsArray;
 let currentIndex;
 let wordObj;
+let group1,group2, group3, group4, groupWall;
+
+
 // let currentTime;
 
 function preload() {
   wordsArray = loadJSON('data/words_with_line_numbers.json', onJSONLoaded, onJSONError);
+  group1 = loadJSON('data/group1.json', onJSONLoaded, onJSONError);
+  group2 = loadJSON('data/group2.json', onJSONLoaded, onJSONError);
+  group3 = loadJSON('data/group3.json', onJSONLoaded, onJSONError);
+  group4 = loadJSON('data/group4.json', onJSONLoaded, onJSONError);
 } 
 
 function onJSONLoaded(data) {
