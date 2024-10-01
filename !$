@@ -1,6 +1,0 @@
-git checkout main
-git merge clockArray
-git push origin main
-git add .
-git add .
-git commit -m "got rid of groups so that it would start working again"
