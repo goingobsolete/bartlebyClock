@@ -37,12 +37,13 @@ function setup() {
   currentIndex = findInitialIndex(milliSinceStartOfDay);
   console.log('Current Index:',currentIndex);
 
-  resizeDrawBg(bgImage, windowWidth, windowHeight);
+  resizedBgImage = resizeImage(bgImage, windowWidth, windowHeight);
 
 }
 
 function draw() {
-  background('#F1F1F1');
+  background(255);
+  image(resizedBgImage, 0, 0, windowWidth, windowHeight);
   translate(width/2, height/2)
   fill(0);
 
