@@ -29,9 +29,7 @@ function setup() {
   const milliSinceStartOfDay = now - startOfDay;
 
   console.log('millis:',milliSinceStartOfDay);
-
   currentIndex = findInitialIndex(milliSinceStartOfDay);
-
   console.log('Current Index:',currentIndex);
 }
 
