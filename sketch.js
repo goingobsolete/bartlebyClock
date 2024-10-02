@@ -27,6 +27,7 @@ function setup() {
   textFont('Libre Caslon Text');
   textStyle(ITALIC);
   textSize(72);
+  fill(0, 0, 0, 127);
   textAlign(CENTER, CENTER);
 
   const now = new Date();
@@ -45,7 +46,7 @@ function draw() {
   background(255);
   image(resizedBgImage, 0, 0, windowWidth, windowHeight);
   translate(width/2, height/2)
-  fill(0);
+  // fill(0);
 
   const now = new Date();
   const startOfDay = new Date(now.getFullYear(), now.getMonth(), now.getDate());
