@@ -1,6 +1,6 @@
 import fetch from 'node-fetch';
 
-async function getUTCToSolarTimeDifferenceAtPrimeMeridian() {
+export async function getUTCToSolarTimeDifferenceAtPrimeMeridian() {
   const longitude = 0; // Prime Meridian
   const latitude = 0;  // Latitude is set to 0 for simplicity
   
@@ -28,11 +28,11 @@ async function getUTCToSolarTimeDifferenceAtPrimeMeridian() {
   }
 }
 
-// // Example usage:
-// getUTCToSolarTimeDifferenceAtPrimeMeridian()
-//   .then(difference => {
-//     console.log(`Difference between UTC and solar time at longitude 0 (solar time = 0): ${difference} milliseconds`);
-//   })
-//   .catch(error => {
-//     console.error('Error:', error);
-//   });
+// Example usage:
+getUTCToSolarTimeDifferenceAtPrimeMeridian()
+  .then(difference => {
+    console.log(`Difference between UTC and solar time at longitude 0 (solar time = 0): ${difference} milliseconds`);
+  })
+  .catch(error => {
+    console.error('Error:', error);
+  });
