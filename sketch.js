@@ -6,7 +6,6 @@ let wordObj;
 let bgImage;
 let resizedBgImage;
 
-
 // let currentTime;
 
 function preload() {
@@ -24,7 +23,7 @@ function onJSONError() {
 }
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(windowWidth, windowHeight); //TODO: if window is larger than bgImage, canvas should be bgImage size and canvas should be centered
   textFont('Libre Caslon Text');
   textStyle(ITALIC);
   textSize(72);
@@ -35,10 +34,11 @@ function setup() {
   const milliSinceStartOfDay = now - startOfDay;
 
   console.log('millis:',milliSinceStartOfDay);
-
   currentIndex = findInitialIndex(milliSinceStartOfDay);
-
   console.log('Current Index:',currentIndex);
+
+  resizeDrawBg(bgImage, windowWidth, windowHeight);
+
 }
 
 function draw() {
