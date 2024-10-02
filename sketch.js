@@ -2,10 +2,16 @@
 let wordsArray;
 let currentIndex;
 let wordObj;
+
+let bgImage;
+let resizedBgImage;
+
+
 // let currentTime;
 
 function preload() {
   wordsArray = loadJSON('data/words_with_line_numbers.json', onJSONLoaded, onJSONError);
+  bgImage = loadImage('assets/stock-paper-texture-00081.jpg');
 } 
 
 function onJSONLoaded(data) {
